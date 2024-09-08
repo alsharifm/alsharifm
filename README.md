@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋 my name is Mohammed Alsharif
+### - I am from Jeddah, Saudi Arabia
+### - I am currently persuing a Computer Engineering degree at San diego State University
+### - I plan to graduate next year
 
 <!--
 **alsharifm/alsharifm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
