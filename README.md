@@ -1,6 +1,6 @@
 # Hi there 👋 my name is Mohammed Alsharif
 ### - I am from Jeddah, Saudi Arabia
-### - I am currently persuing a Computer Engineering degree at San diego State University
+### - I am currently persuing a Computer Engineering degree at San Diego State University
 ### - I plan to graduate next year
 
 <!--
